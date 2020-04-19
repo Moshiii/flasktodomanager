@@ -1,3 +1,9 @@
 /.idea/
 /__pycache__/
 env/Lib/__pycache__/
+env/Lib/__pycache__/
+env/Lib/collections/__pycache__/
+env/Lib/collections/__pycache__/
+env/Lib/encodings/__pycache__
+env/Lib/encodings/__pycache__/
+*.pyc
